@@ -1,0 +1,166 @@
+header{
+ background-color: #f5f5f5;
+ width: 100%;
+ height: 100px;
+}
+ 
+
+main{
+    background-color: #f3f3f3;
+    width: 100%;
+    height: 1800px;
+    margin-top: 50px;
+}
+
+footer{
+    background-color: f5f5f5;
+    width: 100%;
+    height: 250px;
+}
+
+#leftSide{
+    width: 20%;
+    height: 50px;
+    float: left;
+}
+
+#rightSide{
+    width: 20%;
+    height: 50px;
+    margin-left: 1000px;
+}
+
+#rightSide img{
+    margin-top:35px;
+}
+
+#leftSide img{
+    width: 20%;
+    height: 50px;
+    float: left;
+    margin-top: 25px;
+}
+
+#leftSide p{
+    width: 70%;
+    height: 50px;
+    margin-left: 60px;
+    margin-top: -25px;
+    font-size: 10px
+
+}
+
+#leftSide h1{
+    font-family: 'Lobster';
+    margin-left: 60px;
+}
+
+.hr1{
+    width: 100%;
+    height: 10px;
+    background-image: url("https://uxd.tech/exp/exp-one/img/bar.jpg");
+    background-repeat: repeat-x;
+    margin-top: 50px;
+
+}
+
+div form {
+    width: 100%;
+    height: 200px;
+    background-image: url('/images/list-bg.png');
+}
+
+#choHeader {
+    font-size :50px;
+}
+
+#p1 {
+    margin-top:-30px;
+    font-size: 16px;
+}
+
+.pos1{
+    float: left;
+}
+
+
+.pos2{
+    margin-left: 1200px;
+    
+}
+
+.pos2 img{
+    float: left;
+    margin-top: 105px;
+    margin-right: 5px;
+}
+
+.pos2 p{
+    float: left;
+    margin-top: 100px;
+}
+
+#bigImg{
+    width: 100%;
+    height: 900px;
+    margin-top: 30px;
+}
+
+.para1{
+    font-size:30px;
+}
+
+#firstList{
+    float: left;
+    margin-left: 200px;
+    margin-top:30px;
+}
+
+#secList{
+    width: 350px;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-bottom: -150px;
+    float: left;
+}
+
+#vanImg{
+    margin-top: 40px;
+    margin-left: 20px;
+    float: left;
+
+}
+
+#vanTitle{
+    float: left;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+#vanPara{
+    float: left;
+    margin-top: 70px;
+    width: 400px;
+    margin-left: -150px;
+}
+
+#footerbutton {
+    float: left;
+     margin-top: -70px;
+    margin-left: 1000px;
+}
+
+#myButton{
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    background-color: rgb(221, 99, 99);
+}
+
+.theEnd{
+    float: left;
+    margin-left: 450px;
+    text-align: center;
+    color :gray;
+    font-size: 25px;
+}
